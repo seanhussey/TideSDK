@@ -1,5 +1,11 @@
 #!/usr/bin/env python
  
+# 
+# Copyright (c) 2012 - 2014 TideSDK contributors 
+# http://www.tidesdk.org
+# Refer to LICENSE for details of distribution and use.
+# 
+
 from os import path
 Import('build env module')
 

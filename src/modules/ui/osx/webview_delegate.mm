@@ -1,8 +1,11 @@
 /**
- * Appcelerator - licensed under the Apache Public License 2
- * see LICENSE in the root folder for details on the license.
- * Copyright (c) 2008 Appcelerator, Inc. All Rights Reserved.
- */
+ * Copyright (c) 2012 - 2014 TideSDK contributors
+ * http://www.tidesdk.org
+ * Includes modified sources under the Apache 2 License
+ * Copyright (c) 2008 - 2012 Appcelerator Inc
+ * Refer to LICENSE for details of distribution and use.
+ **/
+
 #include <tide/tide.h>
 #include "../ui_module.h"
 #include "osx_menu_item.h"

@@ -1,4 +1,10 @@
 /*
+ * Copyright (c) 2012 - 2014 TideSDK contributors
+ * http://www.tidesdk.org
+ * Refer to LICENSE for details of distribution and use.
+ **/
+
+/*
     cpIRC - C++ class based IRC protocol wrapper
     Copyright (C) 2003 Iain Sheppard
 
