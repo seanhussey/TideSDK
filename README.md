@@ -1,6 +1,19 @@
 TideSDK
 =======
 
+## TideSDK Legacy Status and the Future
+
+TideSDK is a legacy open source desktop SDK. Since late 2012, efforts are now focused on TideKit (http://www.tidekit.com) with the broader vision of ubiquity across operating systems, devices, and screens.
+
+TideKit is the next step in an evolution towards developing for all operating systems simultaneously from code you write just once for mobile, web and desktop. TideKit supports HTML5, hybrid and native development. 
+
+Unlike TideSDK, TideKit is a platform encompassing full cycle app development with accompanying services.
+
+If you have an existing TideSDK project, a migration path will be available so your software will continue to run with virtually no change.
+
+
+## About TideSDK
+
 Current Build Status
 [![Build Status](https://travis-ci.org/TideSDK/TideSDK.png)](https://travis-ci.org/TideSDK/TideSDK)
 *realtime build only tests linux*

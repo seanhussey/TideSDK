@@ -1,5 +1,4 @@
 CREDITS
-=======
 
 TideSDK is driven by an open, collaborative, and world wide effort involving
 the skilled TideSDK Team together with variety of open source contributors.
@@ -8,77 +7,32 @@ project of Software in the Public Interest (SPI). With the SPI, TideSDK in the
 company of other major open software projects such as Debian, Drupal,
 ArchLinux, Jenkins, Postgres.
 
-TideSDK Team Contributors
--------------------------
+TideSDK contributors (source code)
 
-Antonio MalvaGomes: Programmer
-Carl Lobo: Programmer
-Christian Becker: Joint Lead - UI & Design
-Christian Engel: Developer Education Lead
-David May: Joint Lead - UI & Design
-David Pratt: Project Lead / Programmer / SPI Liason
-Francisco Zarate: Infrastructure Lead / Developer
-Marshall Culpepper: Advisor
-Martin Robinson: Advisor
-Matthew Hershberger: Developer
-Mital Vora: Programmer
-Mitchell Amihod: Developer
-Sharry Stowell: Joint Lead - Communications
-Shebin Rawther: Developer
-Steve Verbeek: Programmer
-Yulian Kuncheff: Programmer
+The following persons are as identified as "TideKit contributors" in 
+copyright notices within its source code.
 
-Contributors
-------------
-
+David Pratt
+Mital Vora
+Steve Verbeek
+Yulian Kuncheff
+Carl Lobo
 Fredrik Wollsén
+Mitchell Amihod
 
-Acknowledgements
-----------------
 
-TideSDK includes open source code and libraries that are copyright and 
-licenced by third parties. Refer to LICENSE for details.
+Project Contributors:
 
-Appcelerator Inc.
-Titanium Desktop and Kroll
-http://appcelerator.com
+The following persons have contributed to TideSDK project including its
+sites, graphic design, documentation, hosting or through advisement.
 
-Apple, KDE and Various Contributors
-WebKit, KJS and related libraries
-http://webkit.org/
-
-Applied Informatics Software Engineering GmbH and Contributors
-Poco C++ Libraries
-http://pocoproject.org
-
-Google
-Some Chromium Code and various snippets
-http://www.google.com and http://www.chromium.org
-
-Daniel Stenberg and Contributors
-CURL
-http://curl.haxx.se
-
-Guy Eric Schalnat, Andreas Dilger, Glenn Randers-Pehrson 
-(current maintainer), and others
-libpng
-http://www.libpng.org
-
-IBM and Contributors
-ICU
-http://site.icu-project.org/
-
-SQLite Contributors
-SQLite
-http://www.sqlite.org
-
-Iain Sheppard
-cpIRC - C++ class based IRC protocol wrapper
-
-Nicolas Weber
-makeicns - converts images to Apple's icns format
-Belongs to docerator, http://code.google.com/p/docerator/
-
-The PHP Group
-PHP 5.3.0
-http://www.php.net
+Christian Becker
+Christian Engel
+Shebin Rawther
+David May
+Marshall Culpepper
+Martin Robinson
+Matthew Hershberger
+Francisco Zarate
+Sharry Stowell
+Antonio MalvaGomes
